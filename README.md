@@ -7,29 +7,29 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/TroJanzHEX/Auto-Filter-Bot-V2/stargazers">
-    <img src="https://img.shields.io/github/stars/TroJanzHEX/Auto-Filter-Bot-V2?style=social">
+  <a href="https://github.com/sunaif-adkar/Auto-Filter-Bot-V2.git">
+    <img src="https://github.com/sunaif-adkar/Auto-Filter-Bot-V2.git">
 
   </a>
   
-  <a href="https://github.com/TroJanzHEX/Auto-Filter-Bot-V2/fork">
+  <a href="https://github.com/sunaif-adkar/Auto-Filter-Bot-V2.git">
     <img src="https://img.shields.io/github/forks/TroJanzHEX/Auto-Filter-Bot-V2?label=Fork&style=social">
 
   </a>  
 </p>
 
-[![SA-BOTS](https://img.shields.io/badge/TroJanzHEX-Channel-orange?style=for-the-badge&logo=telegram)](https://t.me/sabotschannel)  
+[![SA-BOTS](https://img.shields.io/badge/SA-Channel-orange?style=for-the-badge&logo=telegram)](https://t.me/sabotschannel)  
 ㅤㅤㅤㅤㅤㅤㅤ  
-[![SA-BOTS](https://img.shields.io/badge/TroJanzHEX-Support-red?style=flat&logo=telegram)](https://t.me/sabotssupport)  [![SA-BOTS](https://img.shields.io/badge/TroJanzHEX-Website-red?style=flat&logo=CodersRank)](https://TroJanzHEX.me)  
+[![SA-BOTS](https://img.shields.io/badge/SA-Support-red?style=flat&logo=telegram)](https://t.me/sabotssupport)  [![SA-BOTS](https://img.shields.io/badge/sa-bot-website-red?style=flat&logo=CodersRank)](https://nicetry😳🙂.me)  
 ㅤㅤㅤㅤㅤㅤㅤ  
-[![MIT license](https://img.shields.io/badge/License-MIT-blue?style=flat)](https://github.com/TroJanzHEX/Auto-Filter-Bot-V2/blob/main/LICENSE)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/TroJanzHEX/Auto-Filter-Bot-V2)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue?style=flat)](https://github.com/sunaif-adkar/Auto-Filter-Bot-V2.git)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/sunaif-adkar/Auto-Filter-Bot-V2.git)
 
 
 
 
 
 #### You can call this as an Auto Filter Bot if you like :D
-#### This is Version 2 of [Auto Filter Bot](https://github.com/TroJanzHEX/Auto-Filter-Bot)
+#### This is Version 2 of [Auto Filter Bot](https://github.com/sunaif-adkar/Auto-Filter-Bot-V2.git)
 #### Bot simply search for the files from provided channel according to given query and gives link to those files as buttons!
 
 ## How to use the bot
@@ -65,17 +65,17 @@ or
 
 Thanks to [NFC TEAM](https://telegram.dog/SUNAIF_ADKAR) and [NFC CYBER ARMY](https://telegram.dog/sunaif_adkar) for the support
 
-## Any bugs or errors or suggestions, report at [TroJanzSupport](https://telegram.dog/TroJanzSupport)
+## Any bugs or errors or suggestions, report at [SA-BOTS-SUPPORT](https://telegram.dog/TroJanzSupport)
 
 
 ## Installation
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TroJanzHEX/Auto-Filter-Bot-V2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sunaif-adkar/Auto-Filter-Bot-V2.git)
 
 ### Deploy in your vps
 ```sh
-git clone https://github.com/TroJanzHEX/Auto-Filter-Bot-V2
+git clone https://github.com/sunaif-adkar/Auto-Filter-Bot-V2.git
 cd Auto-Filter-Bot-V2
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
