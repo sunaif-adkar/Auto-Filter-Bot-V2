@@ -64,6 +64,6 @@ Bot will automatically search for your files and give links to that!
 
 ⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
 
-⭕️<b>Tutorial Video :</b> <a href='https://youtu.be/KQVYQAOsFYY'>Video Link</a> 
+⭕️<b>Tutorial Video :</b> <a href='https://youtube.com/channel/UCO2HqhBLZ6G0c_8KAsSQuFA'>Video Link</a> 
 
 """
