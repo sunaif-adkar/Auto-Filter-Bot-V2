@@ -68,7 +68,7 @@ async def about(client, message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "SOURCE CODE", url="https://github.com/TroJanzHEX/Auto-Filter-Bot-V2")
+                            "SOURCE CODE", url="https://github.com/sunaif-adkar/Auto-Filter-Bot-V2.git")
                     ]
                 ]
             ),
